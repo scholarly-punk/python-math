@@ -3,7 +3,7 @@
 """
 Created on Wed Feb 26 17:38:56 2025
 
-@author: ooma
+@author: scholarly-punk
 """
 
 def is_positive(n):
